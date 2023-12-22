@@ -15,7 +15,7 @@ export class ToucanTrickleCheckoutButtonElement extends LitElement {
       margin: 0;
       overflow: visible;
       position: relative;
-      background-color: #8156c3;
+      background-color: #29880f;
       border: none;
       cursor: pointer;
       color: #fff;

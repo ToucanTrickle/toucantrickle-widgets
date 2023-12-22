@@ -26,6 +26,11 @@ Add this import to starting point of your project such as: index.js or index.ts 
 import '@toucantrickle/toucantrickle-widgets';
 ```
 
+Or add this script tag at the starting of the project
+```html
+<script>https://cdn.jsdelivr.net/npm/@toucantrickle/toucantrickle-widgets@1.0.0/dist/index.js</script>
+```
+
 Create a `<toucantrickle-checkout-button/>` element with required attributes mentioned below.
 
 ```html

@@ -41,8 +41,8 @@ export enum ToucanTrickleDefaultChain {
 export const ToucanTrickleAppUrl = {
   development: '//localhost:3000',
   internal: '',
-  testnet: '//localhost:3000',
-  production: '',
+  testnet: '//testnet.toucantrickle.com',
+  production: '//app.toucantrickle.com',
 };
 
 export interface CheckoutAction<P = unknown> {
